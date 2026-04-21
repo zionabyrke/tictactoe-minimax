@@ -1,7 +1,12 @@
-# Tic-Tac-Toe (Minimax)
+# Tic-Tac-Toe (Unbeatable Minimax)
 
 A simple implementation of **Tic-Tac-Toe using Minimax algorithm** in Python.
 <br>It allows the game to be played against an AI that always chooses the best possible move.
+
+---
+
+## Demo
+<img src="src/demo.gif" alt="Demo" width="420">
 
 ---
 
